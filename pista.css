@@ -7,8 +7,12 @@
 }
 
 header{
-    padding: 30px;
+    padding: 20px;
     background-color:whitesmoke;
+    background-attachment:fixed;
+    font-size: 3em;
+    color: rgb(237, 216, 99);
+    font-style: italic ;
     
 }
 
