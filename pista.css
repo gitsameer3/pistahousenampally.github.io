@@ -7,19 +7,22 @@
 }
 
 header{
-    padding: 20px;
-    background-color:whitesmoke;
-    background-attachment:fixed;
+    padding: 10px;
+    background-color:green;
     font-size: 3em;
     color: rgb(237, 216, 99);
     font-style: italic ;
+    border:1px solid black;
     
 }
 
 h1{
     
     text-align: center;
-    font: size 60px;;
+    background-color:green;
+    color:white;
+    font:1.5em castellar white;
+    font-style:bold;
 }
 
 h3{
@@ -52,16 +55,17 @@ section{
 
 .img1,.img2{
     padding:1%;
-    border-radius: 20px;
+   
     text-align: center;
-   left: 10px;
-   margin-left: 150px;
+   left: 1px;
+   margin-left: 50px;
     }
 
 .sm-handle a{
+    font-size:1.5em;
     background-color: white;
-    padding: 10px 15px;
-    border-radius: 30px;
+    padding-bottom:1px
+    border-radius: 20px;
     margin: 5px 10px;
     text-decoration: none;
     color: red;
