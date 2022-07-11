@@ -10,7 +10,7 @@ header{
     padding: 10px;
     background-color:green;
     font-size: 3em;
-    color: rgb(237, 216, 99);
+    
     font-style: italic ;
     border:1px solid black;
     
@@ -21,7 +21,7 @@ h1{
     text-align: center;
     background-color:green;
     color:white;
-    font:1.5em castellar white;
+    font:1em castellar white;
     font-style:bold;
 }
 
